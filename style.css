@@ -1181,76 +1181,13 @@ footer a i{
     color: var(--secon-bg-color);
 }
 
-/*paralllex......
-
-
-.scroll-scale{
-  opacity: 0;
-  transform: scale(.9);
-  transition: all 2s;
-}
-
-.show-items{
-  opacity: 1;
-  transform: translateX(0);
-}*/
 
 
 
-/*@media(max-width:991px){
-    header,
-    header.sticky{
-        padding: 15px 5%;
-    }
-    footer{
-        padding: 15px 5%;
-
-    }
-    section{
-        padding: 8px 15px;
-    }
-    :root{
-        --big-font: 2.2rem;
-        --normal-font: 1.8rem;
-        --neon-box-shadow: 0 0 .8rem #12f7ff;
-        --h2-font: 3rem;
-
-    }
-    .home-content{
-        margin-top: 5rem;
-    }
-    
 
 
-*/@media(max-width:768px){
-    /*#menu-icon{
-        display: block;
-        transition: all .4s ease;
-    }
-
-    #menu-icon{
-        transform: rotate(-180deg);
-    }
-    .nav{
-        display: flex;
-        position: absolute;
-        top: -1000px;
-        right: 0;
-        left: 0;
-        flex-direction: column;
-        background: var(--bg-color);
-    }
-    .nav a{
-        display: block;
-        padding-bottom: 1rem;
-        font-size: 1rem;
-    }
-
-    .nav.open{
-        top:100%;
-
-
-    }*/
+  @media(max-width:768px){
+   
     .home{
         grid-template-columns: 1fr;
     }
@@ -1357,8 +1294,9 @@ header{
 .header .nav ul li a{
   display: block;
   font-size: 18px;
+  font-weight: 700;
   padding: 10px 0;
-  color: #0bb8d7;
+  color: white;
   text-transform: capitalize;
   transition: all 0.5s ease;
 }
