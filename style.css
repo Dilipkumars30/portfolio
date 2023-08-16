@@ -789,7 +789,7 @@ textarea {
   width: 100%;
   min-height: 100vh;
   padding: 2rem;
-  background-color: #fafafa;
+  background-color: #76c4ff;
   overflow: hidden;
   display: flex;
   align-items: center;
@@ -799,7 +799,7 @@ textarea {
 .form {
   width: 100%;
   max-width: 820px;
-  background-color: #e5dbdb;
+  background-color: #ffffff;
   border-radius: 10px;
   box-shadow: 0 0 20px 1px rgba(0, 0, 0, 0.1);
   z-index: 1000;
@@ -809,7 +809,7 @@ textarea {
 }
 
 .contact-form {
-  background-color: #4274ae;
+  background-color: #2266dd;
   position: relative;
 }
 
@@ -852,7 +852,7 @@ form {
 }
 
 .title {
-  color: #fff;
+  color: #ffffff;
   font-weight: 500;
   font-size: 1.5rem;
   line-height: 1;
@@ -870,7 +870,7 @@ form {
   border: 2px solid #f2ecec;
   background: none;
   padding: 0.6rem 1.2rem;
-  color: #eadcdc;
+  color: #ffffff;
   font-weight: 500;
   font-size: 0.95rem;
   letter-spacing: 0.5px;
@@ -892,7 +892,7 @@ textarea.input {
   left: 15px;
   transform: translateY(-50%);
   padding: 0 0.4rem;
-  color: #f2e9e9;
+  color: #ffffff;
   font-size: 0.9rem;
   font-weight: 400;
   pointer-events: none;
@@ -910,7 +910,7 @@ textarea.input {
   background-color: #fff;
   border: 2px solid #fafafa;
   font-size: 0.95rem;
-  color: #1abc9c;
+  color: #276190;
   line-height: 1;
   border-radius: 25px;
   outline: none;
@@ -944,7 +944,7 @@ textarea.input {
   opacity: 0;
   transition: 0.3s;
   height: 5px;
-  background-color: #26d2e5;
+  background-color: #244fea;
   top: 50%;
   transform: translateY(-50%);
 }
@@ -976,11 +976,11 @@ textarea.input {
 }
 
 .contact-info .title {
-  color: #1a66bc;
+  color: #00ddff;
 }
 
 .text {
-  color: #333;
+  color: #4f4f4f;
   margin: 1.5rem 0 2rem 0;
 }
 
@@ -1014,7 +1014,7 @@ textarea.input {
   width: 35px;
   height: 35px;
   border-radius: 5px;
-  background: linear-gradient(45deg, #1ca5c7, #1ebcc2);
+  background: linear-gradient(45deg, #19e4ff, #239c0a);
   color: #fff;
   text-align: center;
   line-height: 35px;
@@ -1031,7 +1031,7 @@ textarea.input {
   position: absolute;
   width: 110px;
   height: 100px;
-  border: 22px solid #165bca;
+  border: 22px solid #2674f2;
   border-radius: 50%;
   bottom: -77px;
   right: 50px;
@@ -1043,7 +1043,7 @@ textarea.input {
   width: 500px;
   height: 500px;
   border-radius: 50%;
-  background: linear-gradient(to bottom, #1d7ce2,#26afd2 );
+  background: linear-gradient(to bottom, #21cece,#1155dd );
   bottom: 50%;
   right: 50%;
   transform: translate(-40%, 38%);
